@@ -1,6 +1,7 @@
 package web.model;
 
 public class Car {
+
     private String model;
     private String series;
     private int year;
