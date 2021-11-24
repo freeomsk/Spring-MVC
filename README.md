@@ -1,4 +1,4 @@
-# JM preproject. Practical task 2.2.2 (MVC)
+# Spring MVC
 
 ## Условие:
 
